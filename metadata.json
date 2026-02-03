@@ -1,0 +1,5 @@
+{
+  "name": "TaskScheduler Pro",
+  "description": "一个综合性的定时任务管理仪表板，允许用户轻松监控、创建、编辑和控制自动化系统任务。",
+  "requestFramePermissions": []
+}
